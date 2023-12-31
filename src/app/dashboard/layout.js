@@ -1,4 +1,4 @@
-import DashboardSidebar from "@/layout/Dashboardsidebar";
+import DashboardSidebar from "@/layout/DashboardSidebar";
 
 function DashBoardLayout({children}) {
     return (
